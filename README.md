@@ -8,7 +8,8 @@ This is a simple tool to setup formatter, linter, snippets and other useful thin
 2. Extract the content to preferred folder
 3. Clone or download the repo
 4. copy helper_windows folder to the folder mentioned in 2.
-5. run Start,bat and follow the instructions
+5. run Start.bat in helper_windows folder and follow the instructions
+* Note that everytime you want to use VS code, you should still run Start.bat instead of Code.exe.
 
 ## What it did
 - With extensions created by [mshr-h](https://github.com/mshr-h/vscode-verilog-hdl-support)and [IsaacT](https://github.com/IsaacJT/Verilog-Formatter), we can have formatter, snippets, and other features work.
