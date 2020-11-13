@@ -13,7 +13,6 @@ This is a simple tool to setup formatter, linter, snippets and other useful thin
 * Note that everytime you want to use VS code, you should still run Start.bat instead of Code.exe.
 
 ## What it did
-- With extensions created by [mshr-h](https://github.com/mshr-h/vscode-verilog-hdl-support)and [IsaacT](https://github.com/IsaacJT/Verilog-Formatter), we can have formatter, snippets, and other features work.
+- With extensions created by [mshr-h](https://github.com/mshr-h/vscode-verilog-hdl-support) and [IsaacT](https://github.com/IsaacJT/Verilog-Formatter), we can have formatter, snippets, and other features work.
 - However, we requires some extra tools to let it work, like clang, iStyle formatter, and so on.
 - This repo grabs all files needed (except xvlog.bat, which will be at `<vivado install path>/bin`) and have a small script to setup a portable environment for VS Code
-
