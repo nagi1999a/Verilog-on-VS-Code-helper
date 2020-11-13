@@ -1,0 +1,7 @@
+{
+    "verilog.linting.linter": "xvlog",
+    "verilog-formatter.istyle.style": "K&R",
+    "verilog-formatter.istyle.args": "-s2",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 20
+}
